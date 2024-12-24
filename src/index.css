@@ -1,0 +1,14 @@
+:root {
+
+  --primary-color: #3a3042;
+  --secondary-color: #db9d47;
+  --terteary-color: #ff784f;
+  --fourtynary-color: #ffe19c;
+  --fiftnary-color: #edffd9;
+}
+
+body {
+
+  background-color: var(--primary-color);
+  color: var(--fourtynary-color);
+}
